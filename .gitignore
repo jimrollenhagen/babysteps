@@ -1,0 +1,9 @@
+.tox
+*.pyc
+*.egg-info
+venv
+.agignore
+.coverage
+coverage.xml
+AUTHORS
+ChangeLog
